@@ -1,0 +1,78 @@
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaPresentacion.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaPresentacion.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.Properties.Resources.resources
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\C#\BACKUP - SisVentas\SisVentas - Backup - 16-08-2017 - CAP #23\SisVentas\bin\Debug\SisVentas.exe.config
+C:\Users\Administrador\Desktop\C#\BACKUP - SisVentas\SisVentas - Backup - 16-08-2017 - CAP #23\SisVentas\obj\Debug\SisVentas.exe
+C:\Users\Administrador\Desktop\C#\BACKUP - SisVentas\SisVentas - Backup - 16-08-2017 - CAP #23\SisVentas\obj\Debug\SisVentas.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\SisVentas.exe.manifest
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\bin\Debug\SisVentas.application
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.TrustInfo.xml
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.exe.manifest
+C:\Users\Administrador\Desktop\C#\SisVentas\SisVentas\obj\Debug\SisVentas.application

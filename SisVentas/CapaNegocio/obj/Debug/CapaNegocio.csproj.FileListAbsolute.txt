@@ -1,0 +1,35 @@
+C:\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaNegocio\obj\Debug\CapaNegocio.pdb

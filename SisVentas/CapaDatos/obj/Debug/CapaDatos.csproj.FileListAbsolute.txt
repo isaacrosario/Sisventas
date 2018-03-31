@@ -1,0 +1,26 @@
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - Backup - 11-07-2017 - CAP #13\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C# WIndows Forms\SisVentas - en trabajo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
