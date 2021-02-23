@@ -24,3 +24,16 @@ C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj
 C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
 C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
 C:\Users\Administrador\Desktop\C#\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\isaac\Desktop\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\usuar\OneDrive\Escritorio\sisventas\SisVentas\CapaDatos\obj\Debug\CapaDatos.pdb

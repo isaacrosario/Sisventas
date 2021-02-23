@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="SisVentas.exe.manifest" size="16820">
+    <dependentAssembly dependencyType="install" codebase="SisVentas.exe.manifest" size="9154">
       <assemblyIdentity name="SisVentas.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>V/paHExj2untCuJYr6TNW+NqJ2m0U/7BVOL4F6zJYSA=</dsig:DigestValue>
+        <dsig:DigestValue>76+PJ6HOzdD85iwmxmkOCHifuRMuyQo3tgbZ3LHBBWA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -30,8 +30,9 @@ namespace CapaPresentacion
 
         private void BtnIngresar_Click(object sender, EventArgs e)
         {
-            DataTable Datos = CapaNegocio.NTrabajador.Login(this.TxtUsuario.Text,TxtPassword.Text);
+            DataTable Datos =  CapaNegocio.NTrabajador.Login(this.TxtUsuario.Text,this.TxtPassword.Text);
             //Evaluar si existe el usuario
+
             if (Datos.Rows.Count == 0)
             {
                 MessageBox.Show("No Tiene Acceso al Sistema", "Sistema de Ventas", MessageBoxButtons.OK, MessageBoxIcon.Error);
@@ -43,7 +44,7 @@ namespace CapaPresentacion
                 frm.Apellidos = Datos.Rows[0][1].ToString();
                 frm.Nombre = Datos.Rows[0][2].ToString();
                 frm.Acceso = Datos.Rows[0][3].ToString();
-
+                
                 frm.Show();
                 this.Hide();
             }
